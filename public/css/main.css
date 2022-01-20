@@ -141,7 +141,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ Simple slide100 ]*/
 
-.simpleslide100 {
+.test {
     display: block;
     position: fixed;
     z-index: 0;
@@ -151,7 +151,7 @@ Primary use:
     left: 0;
 }
 
-.simpleslide100-item {
+.test-item {
     display: block;
     position: absolute;
     width: 100%;
